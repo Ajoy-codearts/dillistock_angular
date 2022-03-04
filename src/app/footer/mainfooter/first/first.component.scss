@@ -1,0 +1,22 @@
+img {
+    display: inline-block;
+    position: relative;
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    height: 6.7rem;
+    -webkit-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+    vertical-align: top;
+    margin-top: 3.4rem;
+}
+.social {
+    display: inline-block;
+    vertical-align: top;
+    li {
+        margin-bottom: 1.8rem;
+        a {
+            color: #fff;
+            font-size: 1.5rem;
+        }
+    }
+}

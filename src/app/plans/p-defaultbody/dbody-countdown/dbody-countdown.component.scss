@@ -1,0 +1,32 @@
+.count_down_section {
+    width: 100%;
+    padding: 12rem 0;
+    background-image: url(../../../../assets/image/count_down.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    text-align: center;
+    h2 {
+        color: #fff;
+        font-size: 5.3rem;
+        font-weight: 300;
+    }
+    .timer {
+        width: 100%;
+        .count {
+            width: 15.6rem;
+            height: 15.6rem;
+            background-color: #fff;
+            border-radius: 100%;
+            color: #291402;
+            font-size: 5.3rem;
+            line-height: 4.5rem;
+            margin: 0 2.2rem;
+            margin-top: 6.8rem;
+            padding-top: 2rem;
+            span {
+                font-size: 2.2rem;
+            }
+        }
+    }
+}

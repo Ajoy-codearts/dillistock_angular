@@ -1,0 +1,11 @@
+.image_back{
+    padding: 2.4rem 4rem 2.4rem 0; position: relative; z-index: 1;
+     float: left; width: 100%;
+    img{ width: 100%;}
+    &::after{
+        width: 28.9rem; height: 100%;
+         position: absolute; top: 0;
+          right: 0; border: #291402 4px solid; content: ""; 
+          z-index: -1;
+    }
+}

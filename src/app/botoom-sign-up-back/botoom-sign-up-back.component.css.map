@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oBAAoB,CAAA;EAChB,KAAK,EAAE,IAAI;EAAE,gBAAgB,EAAE,IAAI;EAAE,OAAO,EAAE,QAAQ;EAAE,UAAU,EAAE,MAAM;EAAG,KAAK,EAAE,IAAI;EAAE,SAAS,EAAE,MAAM;EAAE,UAAU,EAAE,MAAM;EAAE,KAAK,EAAE,IAAI;CAI/I;;AALD,AAEI,oBAFgB,CAEhB,CAAC,CAAA;EACG,eAAe,EAAE,SAAS;EAAE,KAAK,EAAE,IAAI;CAC1C",
+    "sources": [
+        "botoom-sign-up-back.component.scss"
+    ],
+    "names": [],
+    "file": "botoom-sign-up-back.component.css"
+}

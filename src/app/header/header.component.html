@@ -1,0 +1,18 @@
+
+<header>
+    <div class="container">
+        <a href="#"><img src="assets/image/logo.png" class="logo" alt=""></a>
+        <div class="right_details">
+            <ul class="menu">
+                <li *ngFor="let i of menu"><a routerLink="{{i.menupath}}">{{i.menuname}}</a></li>
+            </ul>
+            <div class="right_widget">
+                <ul class="details">
+                    <li><a href="#"><img src="../../assets/image/hi1.png" alt="">sale</a></li>
+                    <li><a routerLink="{{subscriptionpath}}"><img src="../../assets/image/hi2.png" alt="">pricing</a></li>
+                    <li><a href="#"><img src="../../assets/image/hi3.png" alt="">sign in</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
